@@ -72,7 +72,8 @@ docs/                 reproducibility and project-structure notes
 
 ## Course submission artifacts
 
-- Phase II report draft/summary: `reports/final/robust_ofi_final_summary.md`
+- Phase II report: reports/final/Phase2_Wang_BW_JY.pdf
+- Phase II report source: reports/final/Phase2_Wang_BW_JY.zip
 - Final ablation table: `reports/final/final_ablation_table.csv`
 - LLM disclosure: `llm-usage.md`
 - External code and data note: `docs/EXTERNAL_CODE_AND_DATA.md`
