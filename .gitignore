@@ -35,4 +35,6 @@ temp/
 Thumbs.db
 .vscode/
 .idea/
+
+# Local benchmark gate state
 .pipeline_state/
