@@ -17,14 +17,6 @@ The team takes full responsibility for the final report, code, experiments, resu
 | Project components assisted | Proposal refinement, notation cleanup, shell-script generation, benchmark design, README/docs drafting, final-result interpretation |
 | Repository | `bojuewang/robust-ofi-lobster` |
 
-## Shared or exported transcript note
-
-The team should either share the relevant ChatGPT project/conversation with the instructor if the platform supports sharing, or export/store a prompt transcript or screenshots for review. If a share link is available, record it here before final submission:
-
-```text
-Shared ChatGPT link or exported-log location: TODO
-```
-
 ## Prompt log and relied-upon outputs
 
 The following prompt summaries describe the material LLM assistance that shaped the repository. The exact local shell scripts and benchmark reports should be treated as the authoritative implementation record.
